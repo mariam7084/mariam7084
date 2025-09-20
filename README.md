@@ -14,7 +14,7 @@ So, you somehow landed on my GitHub. Welcome to this corner of the internet wher
 
 ## 🌌 Outside the Code
 
-- Amateur stargazer — → just me, the moon, and whatever constellations I can still spot through the glow of a metro city.  just me, the moon, and the few constellations that sneak past city lights.  
+- Amateur stargazer → just me, the moon, and whatever constellations I can still spot through the glow of a metro city.
 - Bookworm at odd hours:  
   - Crime thrillers (a big Agatha Christie fan)
   - Biographies (because real lives are stranger than fiction)  
