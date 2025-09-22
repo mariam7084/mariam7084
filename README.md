@@ -1,6 +1,8 @@
 <h1 align="center">Hey there👋, I'm Mariam</h1>
 
-So, you somehow landed on my GitHub. Welcome to this corner of the internet where I occasionally pretend to know what I’m doing :)
+So, you somehow landed on my GitHub :D
+
+Welcome to this corner of the internet where I occasionally pretend to know what I’m doing :)
 
 
 ## About Me
